@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oap_labs", "oap_labs\oap_labs.csproj", "{724E11EE-D563-4F08-BC7C-6F0BF75FB5BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{724E11EE-D563-4F08-BC7C-6F0BF75FB5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724E11EE-D563-4F08-BC7C-6F0BF75FB5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724E11EE-D563-4F08-BC7C-6F0BF75FB5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724E11EE-D563-4F08-BC7C-6F0BF75FB5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A551FED3-3F8E-415E-816E-9F87E213A7AF}
+	EndGlobalSection
+EndGlobal
